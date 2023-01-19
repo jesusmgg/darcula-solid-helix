@@ -1,5 +1,5 @@
 "ui.background" = { bg = "grey01" }
-"ui.background.separator" = { bg = "grey00" }
+"ui.background.separator" = { bg = "grey01" }
 "ui.menu" = { fg = "grey05", bg = "grey00" }
 "ui.menu.selected" = { fg = "grey01", bg = "grey04" }
 "ui.menu.scroll" = { fg = "grey02", bg = "grey00" }
