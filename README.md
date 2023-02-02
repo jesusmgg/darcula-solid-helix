@@ -3,7 +3,6 @@ A dark, comfortable to the eyes with good contrast for the [Helix](https://githu
 
 ## Screenshots
 ![Rust sample](screenshots/rust_01.png)
-![File picker](screenshots/rust_02.png)
 
 ## Credits
 - Colors freely and loosely based on the original Darcula Solid: https://github.com/vecheslav/darcula-solid
