@@ -1,3 +1,6 @@
+# Author : Jesus Gonzalez <jesus@jesusmg.net>
+# Original source and more info: https://github.com/jesusmgg/darcula-solid-helix
+
 "ui.background" = { bg = "grey01" }
 "ui.background.separator" = { bg = "grey01" }
 "ui.menu" = { fg = "grey05", bg = "grey00" }
